@@ -1,2 +1,2 @@
-# docker-nextcloud-tesseract
-Nextcloud docker image (apache) with included tesseract OCR package
+# docker-nextcloud-cron-ocr
+Nextcloud docker image (apache) with cron daemon and included tesseract OCR package
